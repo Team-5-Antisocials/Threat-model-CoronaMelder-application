@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T12:10:53.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="FCaazJ4m7jujvWstBvK3" version="15.1.0" type="github"><diagram id="FFh-bPqNhv7g1tzFhZVl" name="Page-1">7Vvfj6IwEP5reNwEWkB93HN/3MPey5nL3WsjPehtpaQWxf3rry5FRKPbS047siQmyjAU+n0fM51BPDxdVM+SFNk3kVDuIT+pPPzgIRSECHnbj59sassojmtDKllinFrDjL1RY/SNtWQJXXYclRBcsaJrnIs8p3PVsREpxbrr9lvw7lkLktIjw2xO+LH1J0tUVlvHkd/av1KWZs2ZA9/sWZDG2RiWGUnEes+EHz08lUKo+teimlK+Ba/BpT7u6cTe3YVJmiubA76XFYtf+d3br+K+YqvXHw8v/A7Xo6wIL82EzcWqTYMATTQgZjMXuf76IkWZJ3Q7rq+3hFSZSEVO+IsQhTYG2viHKrUxdJJSCW3K1IKbvTRP7rfktENqyxPj3AxZX8T2zCcna0xLUco5PTPDRjREplSd8UM7SrSWqVhQJTf6OEk5UWzVvQ5iRJXu/Frc9Q8D/T/QEA00GL/QJQ2jgQbjF7ukIfiYhi7m64wpOivI+9TXOhF18TXDUalodR7B4xmbA3AT8E0aC83mus0JQRPos718EPsXwmjSe6kiS6mOnUrVH3gAwYNFzBh4uDwPaLgfYPCABh4avxOZ/UpEwFvL7EpUs5YJRq4XM0H/y9DQUq2B0zo0CAciYBDR/47AjRARD0TAIKL/Fa81EU6XlhYpwnV3Johdr2hQ/xNpbKlWhF2qFfU/flsTEbkkwoKHa4eNaAItbIzhgbQDxYCE3FeLAGtqNAGHEkAthQgaSvgT9Cutn4BPnCZqiE/9oMkVWTTKPoCli+F/ACkGF/qQRfPk6muNCBxKFgW14xsOj12D1Dzn7086wNgyHThtMmCLQOd6JQxAncERKLeuzttoRmKATbDDEgSAPMPeyXNkK0+30dPij4yuaz8A8ox6J8+xpTzdtgIxwNbE4focgDwnfZNneBuPDEKArerDIvuS8tSb7Vsp7/v23u3Bj38B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-08T18:33:10.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="h-zb-3zyyQ-1DtxW7RXN" version="15.1.1" type="github">
+  <diagram id="FFh-bPqNhv7g1tzFhZVl" name="Page-1">
+    <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Ruxi6kl-zXpAxivkUDLl-1" target="Ruxi6kl-zXpAxivkUDLl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-1" value="Spoof ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ruxi6kl-zXpAxivkUDLl-4" target="Ruxi6kl-zXpAxivkUDLl-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ruxi6kl-zXpAxivkUDLl-4" target="Ruxi6kl-zXpAxivkUDLl-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ruxi6kl-zXpAxivkUDLl-4" target="Ruxi6kl-zXpAxivkUDLl-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ruxi6kl-zXpAxivkUDLl-4" target="Ruxi6kl-zXpAxivkUDLl-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ruxi6kl-zXpAxivkUDLl-4" target="Ruxi6kl-zXpAxivkUDLl-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-4" value="Obtain ID From different device" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Connect with device over Bluetooth&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-18" value="Connect with device over WiFi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ruxi6kl-zXpAxivkUDLl-37" target="Ruxi6kl-zXpAxivkUDLl-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Ruxi6kl-zXpAxivkUDLl-37" target="Ruxi6kl-zXpAxivkUDLl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Ruxi6kl-zXpAxivkUDLl-37" target="DYEAvtwy0YGmK6O21nf3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Ruxi6kl-zXpAxivkUDLl-37" target="DYEAvtwy0YGmK6O21nf3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruxi6kl-zXpAxivkUDLl-37" value="Copy ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DYEAvtwy0YGmK6O21nf3-2" target="DYEAvtwy0YGmK6O21nf3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-2" value="Get in vicinity of multiple device (exchange ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-4" value="Connect with multiple device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYEAvtwy0YGmK6O21nf3-6" value="Send positive Corona notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
