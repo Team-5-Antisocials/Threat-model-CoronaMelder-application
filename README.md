@@ -1,1 +1,1 @@
-# idkwedoschoolstuff
+# Threat-model-CoronaMelder-application
